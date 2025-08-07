@@ -8,22 +8,23 @@
 
 # 🌱 What I'm Passionate About
 
-Learning by Building: Gaining real-world exposure through structured projects and consistent hands-on practice.
-Accessible AI: Exploring how data and machine learning can improve healthcare, education, and other high-impact sectors.
-Community Growth: Supporting other learners through sharing insights, resources, and collaboration.
+* Learning by Building: Gaining real-world exposure through structured projects and consistent hands-on practice.
+* Accessible AI: Exploring how data and machine learning can improve healthcare, education, and other high-impact sectors.
+* Community Growth: Supporting other learners through sharing insights, resources, and collaboration.
 
 # 🚀 Currently Exploring
 
-📊 Python for Data Analysis
-📈 Data Visualization with Matplotlib & Seaborn
-📚 Foundations of Statistics
-🤖 Machine Learning (scikit-learn basics)
+📊 Python for Data Analysis.
+📈 Data Visualization with Matplotlib & Seaborn.
+📚 Foundations of Statistics.
+🤖 Machine Learning (scikit-learn basics).
 
-💡 Goals Ahead
-✅ Complete foundational ML projects
-✅ Contribute to open-source AI tools
-🔄 Start participating in Kaggle challenges
-🔄 Learn model deployment using Flask/Gradio
+# 💡 Goals Ahead-
+
+✅ Complete foundational ML projects.
+✅ Contribute to open-source AI tools.
+🔄 Start participating in Kaggle challenges.
+🔄 Learn model deployment using Flask/Gradio.
 
 
 
